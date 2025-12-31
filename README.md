@@ -22,3 +22,12 @@ Progetto pensato per mostrare competenze di **UI layout**, **responsive design**
 ![Preview](assets/images/preview.jpg)
 
 ## 📂 Struttura progetto
+
+## 🚀 Avvio in locale
+Apri `index.html` nel browser, oppure usa un server locale (consigliato):
+
+- VS Code → estensione **Live Server** → “Open with Live Server”
+
+## 📌 Note
+Questo progetto fa parte del mio portfolio.  
+Repository portfolio: https://github.com/TUOUSERNAME/portfolio
