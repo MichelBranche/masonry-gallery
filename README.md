@@ -17,7 +17,6 @@ Progetto pensato per mostrare competenze di **UI layout**, **responsive design**
 - Immagini adattive e gestione di diverse altezze
 
 ## 📸 Screenshot
-> Metti uno screenshot in `assets/images/preview.jpg` e verrà mostrato qui:
 
 ![Preview](assets/images/preview.png)
 
