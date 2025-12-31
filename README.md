@@ -19,7 +19,7 @@ Progetto pensato per mostrare competenze di **UI layout**, **responsive design**
 ## 📸 Screenshot
 > Aggiungi uno screenshot in `assets/images/preview.jpg` e aggiorna il link qui sotto.
 
-![Preview](assets/images/preview.jpg)
+![Preview](assets/images/preview.png)
 
 ## 📂 Struttura progetto
 
