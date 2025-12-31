@@ -4,7 +4,7 @@ Layout tipo Pinterest realizzato con **HTML + CSS**, con griglia masonry, overla
 Progetto pensato per mostrare competenze di **UI layout**, **responsive design** e cura dei dettagli.
 
 ## 🔗 Live Demo
-- Demo: https://TUOUSERNAME.github.io/masonry-gallery/
+- Demo: https://michelbranche.github.io/masonry-gallery/
 
 ## 🧰 Tech Stack
 - HTML5
@@ -14,20 +14,18 @@ Progetto pensato per mostrare competenze di **UI layout**, **responsive design**
 - Layout masonry “Pinterest-like” (multi-colonna, responsive)
 - Card riutilizzabili con overlay (Save + link + actions)
 - Micro-interazioni (hover, transizioni, shadow)
-- Immagini in **cover** e adattamento a diverse altezze
+- Immagini adattive e gestione di diverse altezze
 
 ## 📸 Screenshot
-> Aggiungi uno screenshot in `assets/images/preview.jpg` e aggiorna il link qui sotto.
+> Metti uno screenshot in `assets/images/preview.jpg` e verrà mostrato qui:
 
 ![Preview](assets/images/preview.png)
 
 ## 📂 Struttura progetto
-
-## 🚀 Avvio in locale
-Apri `index.html` nel browser, oppure usa un server locale (consigliato):
-
-- VS Code → estensione **Live Server** → “Open with Live Server”
-
-## 📌 Note
-Questo progetto fa parte del mio portfolio.  
-Repository portfolio: https://github.com/TUOUSERNAME/portfolio
+```txt
+masonry-gallery/
+  index.html
+  style.css
+  assets/
+    images/
+      preview.jpg
